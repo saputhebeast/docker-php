@@ -1,5 +1,5 @@
 # Run PHP Web Page Using Docker
-1. Run the built image:
+1. Build and Run the Docker Image:
    ```sh
     docker-compose up --build
    ```
